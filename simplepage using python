@@ -3,11 +3,11 @@ How to run a simple web page using python with out using apache/httpd.
 Login to  Linux box
 
 
-1) Create a folder <ODA>
+1) Create a folder  Example <EXADATA>
 
 2) Copy the required content
 
-3) run the following command  from the folder, python -m SimpleHTTPServer 81 &.
+3) Run the following command  from the folder, python -m SimpleHTTPServer 81 &.
 
 4) Use the ipaddress:81 port and check the same 
 
